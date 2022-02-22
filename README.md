@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naksh-atra
-- 👀 I’m interested in figuring out my life
+- 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning Machine Learning and other data related stuff. Also trying to figure out a hobby
 - 💞️ I’m looking to collaborate on some beginner/intermediate projects
 - 📫 How to reach me nakshatra.rajput@outlook.com
