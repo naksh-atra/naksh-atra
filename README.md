@@ -1,4 +1,4 @@
-# Hi, I'm Nakshatra Rajput 👋
+# Hi, I'm Nakshatra 👋
 
 I'm a Software Engineer (AI) with a focus on backend systems, real-time AI agents, and applied machine learning.  
 I enjoy building practical, end-to-end systems — from model integration to deployment — and exploring how AI can enhance real-world workflows.
