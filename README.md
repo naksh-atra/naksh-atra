@@ -26,8 +26,6 @@ I enjoy building practical, end-to-end systems, from model integration to deploy
 ---
 
 > “Build systems that think, not just code that runs.”
-
-
 <!---
 naksh-atra/naksh-atra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
