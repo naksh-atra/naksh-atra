@@ -13,7 +13,7 @@ I enjoy building practical, end-to-end systems, from model integration to deploy
 ---
 
 ### 🔍 Interests
-- Applied AI, MLOps, and intelligent automation  
+- Applied AI, MLOps and intelligent automation  
 - Real-time communication systems and agentic workflows  
 - Open-source tools for data and model interaction
 
