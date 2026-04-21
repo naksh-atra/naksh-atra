@@ -22,6 +22,7 @@ I enjoy building practical, end-to-end systems, from model integration to deploy
 ### 📫 Get in Touch
 - **Email:** [nakshatra.rajput@outlook.com](mailto:nakshatra.rajput@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/naksh-atra](https://linkedin.com/in/naksh-atra)
+- **X:** [x.com/SatyaNaaksh](https://x.com/SatyaNaaksh)
 
 ---
 
