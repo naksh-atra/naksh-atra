@@ -1,14 +1,14 @@
 # Hi, I'm Nakshatra 👋
 
-I'm a Software Engineer with a focus on backend systems, real-time AI agents and applied machine learning.  
-I enjoy building practical, end-to-end systems, from model integration to deployment and exploring how AI can enhance real-world workflows.
+AI-focused software engineer building backend systems, agentic workflows and research-driven applications.
 
 ---
 
 ### 🧠 Currently Working On
-- Building Voice AI agents and multi-modal assistants  
-- Experimenting with Retrieval-Augmented Generation (RAG) systems  
-- Learning more about scalable backend design and cloud deployment
+- GenAI and LLM systems
+- Backend APIs and orchestration
+- RAG, voice AI, and automation pipelines
+- Research-oriented AI tools in fitness and biomedicine
 
 ---
 
@@ -16,6 +16,7 @@ I enjoy building practical, end-to-end systems, from model integration to deploy
 - Applied AI, MLOps and intelligent automation  
 - Real-time communication systems and agentic workflows  
 - Open-source tools for data and model interaction
+- Building practical AI systems that are reliable, grounded and useful in real-world settings.
 
 ---
 
