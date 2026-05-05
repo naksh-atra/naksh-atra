@@ -30,7 +30,7 @@ AI-focused software engineer building backend systems, agentic workflows and res
 <h3 align="left">Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,redis,docker,kubernetes,aws,pytorch&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,ts,postgres,redis,docker,kubernetes,aws,pytorch&perline=9" />
 </p>
 
 <details>
@@ -39,7 +39,7 @@ AI-focused software engineer building backend systems, agentic workflows and res
 <br/>
 
 <ul>
-  <li><b>languages:</b> python, javascript/typescript, Go</li>
+  <li><b>languages:</b> python, javascript/typescript, Go, Rust</li>
   <li><b>backend:</b> fastapi, node.js</li>
   <li><b>data:</b> postgres, redis</li>
   <li><b>infra:</b> docker, kubernetes, aws</li>
