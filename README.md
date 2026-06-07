@@ -39,10 +39,10 @@ AI-focused software engineer building backend systems, agentic workflows and res
 <br/>
 
 <ul>
-  <li><b>languages:</b> python, javascript/typescript, Go, Rust</li>
+  <li><b>languages:</b> python, javascript/typescript, Rust</li>
   <li><b>backend:</b> fastapi, node.js</li>
   <li><b>data:</b> postgres, redis</li>
-  <li><b>infra:</b> docker, kubernetes, aws</li>
+  <li><b>infra:</b> docker, kubernetes, azure, aws</li>
   <li><b>ml/ai:</b> pytorch, rag pipelines, langchain</li>
 </ul>
 
